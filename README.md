@@ -83,16 +83,13 @@ streamlit run app.py
 
 # 📸 Demo
 
-Add screenshots, GIFs, or a demo video here.
+<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/7eeaadac-b33e-4787-9b03-2070f3edb086" />
+<img width="1920" height="1080" alt="summary" src="https://github.com/user-attachments/assets/9e5a22f6-42e7-4fec-8a54-74ac3e16b066" />
+<img width="1920" height="1080" alt="quiz_1" src="https://github.com/user-attachments/assets/d453c8ce-05e5-4d44-a1dc-5f0651b7c570" />
+<img width="1920" height="1080" alt="quiz" src="https://github.com/user-attachments/assets/bc470267-4921-4ba9-9748-c4a7db833ea2" />
+<img width="1920" height="1080" alt="evaluation" src="https://github.com/user-attachments/assets/b881ccf0-a781-49dd-be3c-6b1087bc32ed" />
+<img width="1920" height="1080" alt="chat" src="https://github.com/user-attachments/assets/6d250284-d2c8-4aa7-b3b3-e8e1042392de" />
 
-```
-docs/upload.png
-docs/summary.png
-docs/chat.png
-docs/quiz.png
-docs/quiz_1.png
-docs/evaluation.png
-```
 
 ---
 
