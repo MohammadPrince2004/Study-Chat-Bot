@@ -82,13 +82,34 @@ streamlit run app.py
 ---
 
 # 📸 Demo
+1️⃣ Upload
 
-<img width="1920" height="1080" alt="upload" src="https://github.com/user-attachments/assets/7eeaadac-b33e-4787-9b03-2070f3edb086" />
-<img width="1920" height="1080" alt="summary" src="https://github.com/user-attachments/assets/9e5a22f6-42e7-4fec-8a54-74ac3e16b066" />
-<img width="1920" height="1080" alt="quiz_1" src="https://github.com/user-attachments/assets/d453c8ce-05e5-4d44-a1dc-5f0651b7c570" />
-<img width="1920" height="1080" alt="quiz" src="https://github.com/user-attachments/assets/bc470267-4921-4ba9-9748-c4a7db833ea2" />
-<img width="1920" height="1080" alt="evaluation" src="https://github.com/user-attachments/assets/b881ccf0-a781-49dd-be3c-6b1087bc32ed" />
-<img width="1920" height="1080" alt="chat" src="https://github.com/user-attachments/assets/6d250284-d2c8-4aa7-b3b3-e8e1042392de" />
+Upload a lecture PDF and start the summary.
+
+<img width="100%" alt="upload" src="https://github.com/user-attachments/assets/7eeaadac-b33e-4787-9b03-2070f3edb086" />
+2️⃣ Summary
+
+A structured bullet-point summary of the lecture.
+
+<img width="100%" alt="summary" src="https://github.com/user-attachments/assets/9e5a22f6-42e7-4fec-8a54-74ac3e16b066" />
+3️⃣ Chat with the lecture (RAG)
+
+Answers come only from the uploaded file, with the source passages shown.
+
+<img width="100%" alt="chat" src="https://github.com/user-attachments/assets/6d250284-d2c8-4aa7-b3b3-e8e1042392de" />
+4️⃣ Quiz
+
+Auto-generated multiple-choice questions, one at a time.
+
+<img width="100%" alt="quiz" src="https://github.com/user-attachments/assets/bc470267-4921-4ba9-9748-c4a7db833ea2" />
+5️⃣ Quiz (in progress)
+<img width="100%" alt="quiz_1" src="https://github.com/user-attachments/assets/d453c8ce-05e5-4d44-a1dc-5f0651b7c570" />
+6️⃣ Evaluation
+
+Score, grade, and a review of every question with the correct answer and explanation.
+
+<img width="100%" alt="evaluation" src="https://github.com/user-attachments/assets/b881ccf0-a781-49dd-be3c-6b1087bc32ed" />
+
 
 
 ---
