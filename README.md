@@ -86,10 +86,12 @@ streamlit run app.py
 Add screenshots, GIFs, or a demo video here.
 
 ```
+docs/upload.png
 docs/summary.png
 docs/chat.png
 docs/quiz.png
-docs/result.png
+docs/quiz_1.png
+docs/evaluation.png
 ```
 
 ---
