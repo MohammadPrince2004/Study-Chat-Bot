@@ -57,8 +57,8 @@ PDF ──► text ──► split into chunks ──┬──► Map-Reduce sum
 **Requirements:** Python 3.10+ and a GPU (recommended). The 3B model in `float16` needs roughly 6 GB of GPU memory.
 
 ```bash
-git clone https://github.com/<your-github-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/MohammadPrince2004/Study-Chat-Bot.git
+cd Study-Chat-Bot
 pip install -r requirements.txt
 ```
 
